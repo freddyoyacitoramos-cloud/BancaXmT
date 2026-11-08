@@ -1,0 +1,6 @@
+{
+  "name": "Banca Cuba",
+  "description": "Banca digital cubana para gestión de cuentas CUP y MLC, transferencias seguras, pagos de servicios locales y autenticación biométrica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
